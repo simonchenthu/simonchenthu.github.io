@@ -3,7 +3,8 @@ title: "State-Specific Projection of COVID-19 Infection in the United States and
 collection: publications
 permalink: /publication/2020-12-30-paper-COVID-number-2
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-12-30
+date: 2020-04-07
+pubdate: 2020-12-30
 venuestatus: 'Published in'
 venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-020-80044-3'

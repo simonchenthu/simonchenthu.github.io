@@ -3,7 +3,8 @@ title: "Semiclassical Limit of an Inverse Problem for the Schrödinger Equation"
 collection: publications
 permalink: /publication/2021-6-17-paper-inverseSchr-number-3
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-6-17
+date: 2020-12-26
+pubdate: 2021-06-17
 venuestatus: 'Published in'
 venue: 'Research in the Mathematical Sciences'
 paperurl: 'https://doi.org/10.1007/s40687-021-00279-y'
