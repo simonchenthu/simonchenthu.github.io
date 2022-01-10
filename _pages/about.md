@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shi Chen 陈实"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
