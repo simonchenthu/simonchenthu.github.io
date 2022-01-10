@@ -7,6 +7,7 @@ date: 2020-12-26
 pubdate: 2021-06-17
 venuestatus: 'Published in'
 venue: 'Research in the Mathematical Sciences'
+cauthor: 'Qin Li'
 paperurl: 'https://doi.org/10.1007/s40687-021-00279-y'
 arxivurl: 'https://arxiv.org/abs/2012.13833'
 posterurl: 

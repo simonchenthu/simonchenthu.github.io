@@ -7,6 +7,7 @@ date: 2021-11-03
 pubdate: 2021-11-03
 venuestatus: 'Submitted to'
 venue: 'Journal of Computational Mathematics'
+cauthor: 'Zhiyan Ding, Qin Li and Stephen J. Wright'
 paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
 arxivurl: 'https://arxiv.org/abs/2111.02280'
 codeurl: 

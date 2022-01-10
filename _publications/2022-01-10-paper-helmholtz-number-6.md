@@ -7,6 +7,7 @@ date: 2022-01-10
 pubdate: 2022-01-10
 venuestatus: 'Submitted to'
 venue: 'SIAM Journal on Imaging Sciences'
+cauthor: 'Zhiyan Ding, Qin Li and Leonardo Zepeda-Núñez'
 paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
 arxivurl: #'https://arxiv.org/abs/2111.02280'
 codeurl: 

@@ -7,6 +7,7 @@ date: 2020-04-07
 pubdate: 2020-12-30
 venuestatus: 'Published in'
 venue: 'Scientific Reports'
+cauthor: 'Qin Li, Song Gao, Yuhao Kang and Xun Shi '
 paperurl: 'https://doi.org/10.1038/s41598-020-80044-3'
 medrxivurl: 'https://www.medrxiv.org/content/10.1101/2020.04.03.20052720v2'
 posterurl: '/files/covid-poster.pdf'
