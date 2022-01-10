@@ -1,7 +1,7 @@
 ---
 title: "Classical Limit for the Varying-Mass Schrödinger Equation with Random Inhomogeneities"
 collection: publications
-permalink: /publication/2021-08-VMSE-number-1
+permalink: /publication/2021-08-01-paper-VMSE-number-1
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-08-01
 venuestatus: 'Published in'
