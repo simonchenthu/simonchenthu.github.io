@@ -57,7 +57,15 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <a href=" {{ post.paperurl }} ">[Journal]</a>
+    {% endif %}
+
+    {% if post.arxivurl %}
+      <a href=" {{ post.arxivurl }} ">[ArXiv]</a>
+    {% endif %}
+
+    {% if post.codeurl %}
+      <a href=" {{ post.codeurl }} ">[Codes]</a>
     {% endif %}
 
   </article>
