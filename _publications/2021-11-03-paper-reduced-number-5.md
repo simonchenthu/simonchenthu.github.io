@@ -1,5 +1,5 @@
 ---
-title: "A reduced order Schwarz method for nonlinear multiscale elliptic equations based on two-layer neural networks"
+title: "A Reduced Order Schwarz Method for Nonlinear Multiscale Elliptic Equations Based on Two-Layer Neural Networks"
 collection: publications
 permalink: /publication/2021-11-03-paper-reduced-number-5
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
