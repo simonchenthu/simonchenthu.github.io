@@ -13,5 +13,7 @@ arxivurl: 'https://arxiv.org/abs/2012.13833'
 posterurl: 
 codeurl: 
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+imgurl: /images/inverseSchr-img.png
+imgcap: Connecting the inverse Schrödinger problem, the inverse Wigner problem and the inverse Liouville problem
 ---
 It is a classical derivation that the Wigner equation, derived from the Schrödinger equation that contains the quantum information, converges to the Liouville equation when the rescaled Planck constant $\varepsilon \to 0$. Since the latter presents the Newton's second law, the process is typically termed the (semi-)classical limit. In this paper, we study the classical limit of an inverse problem for the Schrödinger equation. More specifically, we show that using the initial condition and final state of the Schrödinger equation to reconstruct the potential term, in the classical regime with $\varepsilon \to 0$, becomes using the initial and final state to reconstruct the potential term in the Liouville equation. This formally bridges an inverse problem in quantum mechanics with an inverse problem in classical mechanics.
