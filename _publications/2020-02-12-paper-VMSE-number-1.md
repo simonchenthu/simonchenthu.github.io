@@ -12,5 +12,7 @@ paperurl: 'https://doi.org/10.1016/j.jcp.2021.110365'
 arxivurl: 'https://arxiv.org/abs/2002.05277'
 codeurl: 
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+imgurl: /images/vmse-img.png
+imgcap: Evolution of Wigner function (left) and particle density (right) with random perturbation
 ---
 The varying-mass Schrödinger equation (VMSE) has been successfully applied to model electronic properties of semiconductor hetero-structures, for example, quantum dots and quantum wells. In this paper, we consider VMSE with small random heterogeneities, and derive a radiative transfer equation as its asymptotic limit. The main tool is to systematically apply the Wigner transform in the classical regime when the rescaled Planck constant , and expand the Wigner equation to proper orders of $\varepsilon\ll 1$. As a proof of concept, we numerically compute both VMSE and its limiting radiative transfer equation, and show that their solutions agree well in the classical regime.
