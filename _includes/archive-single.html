@@ -47,13 +47,18 @@
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-        {% if post.imgurl and post.imgcap %} <!--text-align: justify;-->
-          <figure style="float: right;margin-top: 0em;width: 40%;text-align: justify;font-style: italic;font-size: 100%;">
+        {% if post.imgurl and post.imgcap and post.imgfloat and post.imgwidth %}
+          <figure style="float: {{post.imgfloat}};margin-top: 0em;margin-bottom: 0em;margin-left: .5em;margin-right: .5em;width: {{post.imgwidth}};text-align: left;font-style: italic;font-size: 100%;">
+            <img src="{{post.imgurl}}"/>
+            <figcaption>{{post.imgcap}}</figcaption>
+          </figure>
+        {% elsif post.imgurl and post.imgcap %}
+          <figure style="float: right;margin-top: 0em;margin-bottom: 0em;margin-left: .5em;margin-right: .5em;width: 40%;text-align: left;font-style: italic;font-size: 100%;">
             <img src="{{post.imgurl}}"/>
             <figcaption>{{post.imgcap}}</figcaption>
           </figure>
         {% elsif post.imgurl %}
-          <figure style="float: right;width: 50%;">
+          <figure style="float: right;width: 50%;margin-top: 0em;margin-bottom: 0em;margin-left: .5em;margin-right: 0.5em;">
             <img src="{{post.imgurl}}"/>
           </figure>
         {% endif %}
