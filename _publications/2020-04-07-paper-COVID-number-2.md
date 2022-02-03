@@ -11,7 +11,7 @@ cauthor: 'Qin Li, Song Gao, Yuhao Kang and Xun Shi '
 paperurl: 'https://doi.org/10.1038/s41598-020-80044-3'
 medrxivurl: 'https://www.medrxiv.org/content/10.1101/2020.04.03.20052720v2'
 posterurl: '/files/covid-poster.pdf'
-codeurl: 
+codeurl: 'https://github.com/simonchenthu/covid_projection'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 imgurl: /images/covid-img.png
 imgcap: Effect of different infection control measure on the projection of confirmed cases
