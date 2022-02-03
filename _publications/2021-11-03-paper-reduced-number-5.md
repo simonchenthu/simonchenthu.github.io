@@ -10,7 +10,7 @@ venue: 'Journal of Computational Mathematics'
 cauthor: 'Zhiyan Ding, Qin Li and Stephen J. Wright'
 paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
 arxivurl: 'https://arxiv.org/abs/2111.02280'
-codeurl: 
+codeurl: 'https://github.com/simonchenthu/nn_reduced_Schwarz'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 imgurl: /images/reduced-img.png
 imgcap: Despite the high-dimensionality of input and output space, the boundary-to-boundary operator in Schwarz iteration is an essentially low-dimensional operator that can be efficiently approximated by neural networks
