@@ -1,11 +1,11 @@
 ---
 title: "Manifold Learning and Nonlinear Homogenization"
 collection: publications
-permalink: /publication/2020-11-01-paper-manflod-number-4
+permalink: /publication/2020-11-01-paper-manifold-number-4
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-01
 pubdate: 2021-11-09
-venuestatus: 'Revision submitted to'
+venuestatus: 'Accepted by'
 venue: 'Multiscale Modeling & Simulation'
 cauthor: 'Qin Li, Jianfeng Lu and Stephen J. Wright'
 paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'

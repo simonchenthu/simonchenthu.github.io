@@ -5,7 +5,7 @@ permalink: /publication/2021-11-03-paper-reduced-number-5
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-11-03
 pubdate: 2021-11-03
-venuestatus: 'Submitted to'
+venuestatus: 'Accepted by'
 venue: 'Journal of Computational Mathematics'
 cauthor: 'Zhiyan Ding, Qin Li and Stephen J. Wright'
 paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
