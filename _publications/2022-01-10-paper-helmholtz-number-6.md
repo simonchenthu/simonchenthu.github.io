@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2022-01-10-paper-helmholtz-number-6
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-10
-pubdate: 2022-01-10
-venuestatus: 'Submitted to'
+pubdate: 2023-01-01
+venuestatus: 'Published in'
 venue: 'SIAM Journal on Imaging Sciences'
 cauthor: 'Zhiyan Ding, Qin Li and Leonardo Zepeda-Núñez'
-paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
+paperurl: 'https://doi.org/10.1137/22M147075X'
 arxivurl: 'https://arxiv.org/abs/2201.03494'
+posterurl: '/files/helmholtz-poster.pdf'
 codeurl:  'https://github.com/simonchenthu/inverse_scattering/tree/husimi'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 imgurl: /images/helmholtz-img.png

@@ -8,7 +8,7 @@ pubdate: 2022-03-22
 venuestatus: 'Accepted by'
 venue: 'Multiscale Modeling & Simulation'
 cauthor: 'Qin Li, Jianfeng Lu and Stephen J. Wright'
-paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
+paperurl: 'https://doi.org/10.1137/20M1377771'
 arxivurl: 'https://arxiv.org/abs/2011.00568'
 codeurl: 'https://github.com/simonchenthu/reduced_Schwarz'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
