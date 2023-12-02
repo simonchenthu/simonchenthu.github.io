@@ -7,7 +7,7 @@ date: 2023-10-06
 pubdate: 2023-10-06
 venuestatus: 'Submitted to'
 venue: 'Journal of Machine Learning Research'
-cauthor: 'Qin Li, Oliver Tse and Leonardo Zepeda-Núñez'
+cauthor: 'Qin Li, Oliver Tse and Stephen J. Wright'
 # paperurl: 'https://doi.org/10.1137/22M147075X'
 arxivurl: 'https://arxiv.org/abs/2310.04006'
 # posterurl: '/files/helmholtz-poster.pdf'
