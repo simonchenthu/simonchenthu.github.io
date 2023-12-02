@@ -5,7 +5,7 @@ permalink: /publication/2020-11-01-paper-manifold-number-4
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-01
 pubdate: 2022-03-22
-venuestatus: 'Accepted by'
+venuestatus: 'Published in'
 venue: 'Multiscale Modeling & Simulation'
 cauthor: 'Qin Li, Jianfeng Lu and Stephen J. Wright'
 paperurl: 'https://doi.org/10.1137/20M1377771'

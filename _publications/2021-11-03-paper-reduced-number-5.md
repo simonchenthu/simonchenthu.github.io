@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2021-11-03-paper-reduced-number-5
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-11-03
-pubdate: 2022-04-13
-venuestatus: 'Accepted by'
+pubdate: 2023-03-28
+venuestatus: 'Published in'
 venue: 'Journal of Computational Mathematics'
 cauthor: 'Zhiyan Ding, Qin Li and Stephen J. Wright'
-paperurl: #'https://doi.org/10.1016/j.jcp.2021.110365'
+paperurl: 'https://doi.org/10.4208/jcm.2204-m2021-0311'
 arxivurl: 'https://arxiv.org/abs/2111.02280'
 codeurl: 'https://github.com/simonchenthu/nn_reduced_Schwarz'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
