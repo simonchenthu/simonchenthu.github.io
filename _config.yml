@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shi Chen 陈实"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "MIT Applied Math Instructor"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=J-xo_VwAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=arXWaOIAAAAJ&hl=en&authuser=2"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "simonchenthu"
+  github           : # "simonchenthu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shi-chen-98b7431a0/"
+  linkedin         : # "shi-chen-98b7431a0/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
